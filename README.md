@@ -53,6 +53,7 @@ This involved exploring the sales data to answer some key questions, such as:
 
 ### Result
  *Check Insights and analysis and Data Visualization slide on presentation
+![Viz](https://github.com/hanifasalihu/bike-sales/assets/157046638/466565d9-e261-4611-b681-b2326aea94af)
 
 ### Recommendations
 
