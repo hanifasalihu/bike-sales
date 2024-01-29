@@ -1,4 +1,5 @@
 # PETALPALS BIKE STORE SALES ANALYSIS
+![Screenshot 2024-01-28 190423](https://github.com/hanifasalihu/bike-sales/assets/157046638/9331f0b2-d149-482c-8169-0338a75569a6)
 
 ## Table of Content
 
